@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-# 1/ Sources :
+# 1) Sources :
 - Here is a list of sources I used to build this project:
     + geaxgx1's Youtube video: https://www.youtube.com/watch?v=QR66rMS_ZfA&t=130s . It contains amazing, abstract instructions on how to build a Real Time Sudoku Solver (Please notice he didn't upload any code)
     + Data used to train the CNN: Chars74K for Computer Fonts, instead of MNIST for hand written digits http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
@@ -16,7 +16,7 @@
 - A lot of ideas (and codes) of this project came from others, as I'm very new to this field. 
   But I still need to put A LOT of work on this project, and I'm very proud of what I have created :)
 
-# 2/ How can you run it?
+# 2) How can you run it?
 
 - Just download all files, make sure you have the required installation of Python, OpenCV, Tensorflow and Keras, and run main.py
 - You don't need to train CNN on your own. I have trained a CNN model and saved the architecture in digitRecoginition.h5
